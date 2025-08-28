@@ -4,7 +4,7 @@ title: I'm Claire
 hide: true
 ---
 
-Hi! My name is Claire
+Hi! My name is Claire.
 
 ### Development Environment
 
