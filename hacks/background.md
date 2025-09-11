@@ -3,7 +3,11 @@ layout: base
 title: Background with Object
 description: Use JavaScript to have an in motion background.
 sprite: images/platformer/sprites/dracomalfoy.png
+<<<<<<< HEAD
 background: images/platformer/backgrounds/miniHogwarts.png
+=======
+background: images/platformer/backgrounds/miniHogwarts.jpg
+>>>>>>> e6949a2fd5256719b0bef229d071174c45c20bfc
 permalink: /background
 ---
 
